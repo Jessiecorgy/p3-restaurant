@@ -29,3 +29,7 @@ section {
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+img {
+	width:700px;
+}
