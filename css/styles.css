@@ -65,7 +65,9 @@ list-style: none;
 }
 */
 
-
+#hazey {
+    background-color: rgba(208,214,220,.2);
+}
 
 div.container {
     width: px;
@@ -88,6 +90,7 @@ header.grid_12.alpha.omega {
     height: 113px;
     width: 100%;
     margin-top: 20px;
+
 }
 
 section.grid_12.alpha.omega {
