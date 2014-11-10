@@ -8,3 +8,8 @@ $(document).ready(function(){
   // Your Scripts
 
 });
+
+
+$( "#about" ).click(function() {
+  $( this ).slideUp();
+});
