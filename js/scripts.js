@@ -10,6 +10,8 @@ $(document).ready(function(){
 });
 
 
-$( "#about" ).click(function() {
-  $( this ).slideUp();
+$('.img-holder').imageScroll({
+coverRatio: 0.5
 });
+
+
